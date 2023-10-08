@@ -1,0 +1,35 @@
+.container ul li a{
+    color:black;
+}
+.button{
+    background: black;
+}
+.container span{
+    font-weight: 600;
+}
+.container svg{
+    background-color: transparent;
+}
+svg{
+    background: transparent;
+}
+.feature col{
+    color: black;
+}
+#new-btn{
+    font-weight: 700;
+}
+#new-btn:hover{
+    color: white;
+
+}
+#btn-lebo:hover{
+    background: black;
+    color: white;
+    border: 1px solid black;
+}
+#long-btn:hover{
+    background: green;
+    color:white;
+    border:1px solid green;
+}
